@@ -15,23 +15,23 @@ gradlePlugin {
     plugins {
         register("androidApplication") {
             id = "com.kyawlinnthant.application"
-            implementationClass = "ApplicationPlugin"
+            implementationClass = "AndroidApplicationPlugin"
+        }
+        register("androidLibrary") {
+            id = "com.kyawlinnthant.library"
+            implementationClass = "AndroidLibraryPlugin"
         }
         register("androidApplicationCompose") {
             id = "com.kyawlinnthant.compose.application"
-            implementationClass = "ApplicationComposePlugin"
-        }
-        register("androidDaggerHilt") {
-            id = "com.kyawlinnthant.hilt"
-            implementationClass = "HiltPlugin"
-        }
-        register("androidLibrary"){
-            id = "com.kyawlinnthant.library"
-            implementationClass = "LibraryPlugin"
+            implementationClass = "ComposeApplicationPlugin"
         }
         register("androidLibraryCompose") {
             id = "com.kyawlinnthant.compose.library"
-            implementationClass = "LibraryComposePlugin"
+            implementationClass = "ComposeLibraryPlugin"
+        }
+        register("androidDaggerHilt") {
+            id = "com.kyawlinnthant.hilt"
+            implementationClass = "DaggerHiltPlugin"
         }
     }
 }

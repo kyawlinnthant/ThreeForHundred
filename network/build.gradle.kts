@@ -1,5 +1,7 @@
 @file:Suppress("UnstableApiUsage")
 
+import java.util.Properties
+
 plugins {
     id("com.kyawlinnthant.library")
     id("com.kyawlinnthant.hilt")
@@ -15,9 +17,13 @@ android {
             name = "BASE_URL",
             value = "\"https://famous-quotes4.p.rapidapi.com\""
         )
-//        java.Properties().load(project.rootProject.file("local.properties").inputStream())
-//        buildConfigField("String", "API_KEY", "\"${properties.getProperty("API_KEY")}\"")
-
+        val properties = Properties()
+        properties.load(project.rootProject.file("local.properties").inputStream())
+        buildConfigField(
+            type = "String",
+            name = "API_KEY",
+            value = "\"${properties.getProperty("API_KEY")}\""
+        )
     }
 }
 dependencies {
