@@ -1,14 +1,14 @@
 [
     {
         "merged": "com.kyawlinnthant.database-merged_res-16:/layout/custom_dialog.xml",
-        "source": "com.kyawlinnthant.database-core-1.8.0-8:/layout/custom_dialog.xml"
+        "source": "com.kyawlinnthant.database-core-1.8.0-10:/layout/custom_dialog.xml"
     },
     {
         "merged": "com.kyawlinnthant.database-merged_res-16:/layout/notification_template_part_time.xml",
-        "source": "com.kyawlinnthant.database-core-1.8.0-8:/layout/notification_template_part_time.xml"
+        "source": "com.kyawlinnthant.database-core-1.8.0-10:/layout/notification_template_part_time.xml"
     },
     {
         "merged": "com.kyawlinnthant.database-merged_res-16:/layout/notification_template_part_chronometer.xml",
-        "source": "com.kyawlinnthant.database-core-1.8.0-8:/layout/notification_template_part_chronometer.xml"
+        "source": "com.kyawlinnthant.database-core-1.8.0-10:/layout/notification_template_part_chronometer.xml"
     }
 ]

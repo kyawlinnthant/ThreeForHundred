@@ -1,10 +1,11 @@
 @file:Suppress("UnstableApiUsage")
 
 import java.util.Properties
-
+@Suppress("DSL_SCOPE_VIOLATION")
 plugins {
     id("com.kyawlinnthant.library")
     id("com.kyawlinnthant.hilt")
+    alias(libs.plugins.kotlin.serialization)
 }
 android {
     namespace = "com.kyawlinnthant.network"
@@ -29,4 +30,5 @@ android {
 dependencies {
     api(project(":model"))
     api(libs.bundles.network)
+    api(libs.kotlinx.serialization)
 }

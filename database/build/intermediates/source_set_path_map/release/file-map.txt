@@ -1,20 +1,20 @@
-com.kyawlinnthant.database-sqlite-framework-2.3.1-0 /home/klt/.gradle/caches/transforms-3/223adefe69b89169a02fa41d01aaf347/transformed/sqlite-framework-2.3.1/res
-com.kyawlinnthant.database-sqlite-2.3.1-1 /home/klt/.gradle/caches/transforms-3/387389fe889769b9e2f44890c9687d37/transformed/sqlite-2.3.1/res
-com.kyawlinnthant.database-lifecycle-viewmodel-2.5.1-2 /home/klt/.gradle/caches/transforms-3/3d06b507ec48d5436716762092c2759e/transformed/lifecycle-viewmodel-2.5.1/res
-com.kyawlinnthant.database-savedstate-1.2.0-3 /home/klt/.gradle/caches/transforms-3/4caa2de2fb0ff5c7d4ab472f4204812e/transformed/savedstate-1.2.0/res
-com.kyawlinnthant.database-lifecycle-viewmodel-savedstate-2.5.1-4 /home/klt/.gradle/caches/transforms-3/5c246856a05d40bdf7552f63b9d6a90f/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
-com.kyawlinnthant.database-annotation-experimental-1.1.0-5 /home/klt/.gradle/caches/transforms-3/6e5106b251b1a294061c5b28e0f0df56/transformed/annotation-experimental-1.1.0/res
-com.kyawlinnthant.database-lifecycle-livedata-core-2.5.1-6 /home/klt/.gradle/caches/transforms-3/6fb0fd440863f6950efcb4791ca4aaaa/transformed/lifecycle-livedata-core-2.5.1/res
-com.kyawlinnthant.database-room-runtime-2.5.1-7 /home/klt/.gradle/caches/transforms-3/9183650387c282dcd82d0c194f162671/transformed/room-runtime-2.5.1/res
-com.kyawlinnthant.database-core-1.8.0-8 /home/klt/.gradle/caches/transforms-3/ae1b8b7ac1bfaec03bf8b4bc6034f0c0/transformed/core-1.8.0/res
-com.kyawlinnthant.database-lifecycle-runtime-2.5.1-9 /home/klt/.gradle/caches/transforms-3/bc4b369a9f4d6d9af1c9057dcca9cfa3/transformed/lifecycle-runtime-2.5.1/res
-com.kyawlinnthant.database-fragment-1.5.1-10 /home/klt/.gradle/caches/transforms-3/d4af479f118dd9ff31a021fd562fbf75/transformed/fragment-1.5.1/res
-com.kyawlinnthant.database-room-ktx-2.5.1-11 /home/klt/.gradle/caches/transforms-3/f9ba881a5782cf5e7f004fde6b867fc6/transformed/room-ktx-2.5.1/res
-com.kyawlinnthant.database-activity-1.5.1-12 /home/klt/.gradle/caches/transforms-3/ffb6fefc42f24f5e39a01846c02180df/transformed/activity-1.5.1/res
-com.kyawlinnthant.database-pngs-13 /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/generated/res/pngs/release
-com.kyawlinnthant.database-resValues-14 /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/generated/res/resValues/release
-com.kyawlinnthant.database-mergeReleaseResources-15 /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.kyawlinnthant.database-mergeReleaseResources-16 /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.kyawlinnthant.database-merged_res-17 /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/merged_res/release
-com.kyawlinnthant.database-main-18 /home/klt/AndroidStudioProjects/ThreeForHundred/database/src/main/res
-com.kyawlinnthant.database-release-19 /home/klt/AndroidStudioProjects/ThreeForHundred/database/src/release/res
+com.kyawlinnthant.database-lifecycle-runtime-2.5.1-0 C:\Users\PC\.gradle\caches\transforms-3\0cac4e5c998aa763a7343778cda50888\transformed\lifecycle-runtime-2.5.1\res
+com.kyawlinnthant.database-room-ktx-2.5.1-1 C:\Users\PC\.gradle\caches\transforms-3\0ecdd93b01604ecf51dcdda3340f4085\transformed\room-ktx-2.5.1\res
+com.kyawlinnthant.database-savedstate-1.2.0-2 C:\Users\PC\.gradle\caches\transforms-3\26174fc25cc709c220552c47b97905e9\transformed\savedstate-1.2.0\res
+com.kyawlinnthant.database-activity-1.5.1-3 C:\Users\PC\.gradle\caches\transforms-3\53a48b3ef012f8f976ff1252652fa8cb\transformed\activity-1.5.1\res
+com.kyawlinnthant.database-annotation-experimental-1.1.0-4 C:\Users\PC\.gradle\caches\transforms-3\6c439d7d83c5337e5f5bbe8d66f5facd\transformed\annotation-experimental-1.1.0\res
+com.kyawlinnthant.database-fragment-1.5.1-5 C:\Users\PC\.gradle\caches\transforms-3\6ffda7e9d32be79221dc653fd8aeebdb\transformed\fragment-1.5.1\res
+com.kyawlinnthant.database-sqlite-2.3.1-6 C:\Users\PC\.gradle\caches\transforms-3\77f9853be079e68c82a4882e6d4a2031\transformed\sqlite-2.3.1\res
+com.kyawlinnthant.database-room-runtime-2.5.1-7 C:\Users\PC\.gradle\caches\transforms-3\86ada8cdcc3999ac4b8d73c1671d6fad\transformed\room-runtime-2.5.1\res
+com.kyawlinnthant.database-lifecycle-livedata-core-2.5.1-8 C:\Users\PC\.gradle\caches\transforms-3\8a5f6460a89769180f8744947aa45b70\transformed\lifecycle-livedata-core-2.5.1\res
+com.kyawlinnthant.database-lifecycle-viewmodel-savedstate-2.5.1-9 C:\Users\PC\.gradle\caches\transforms-3\c01ded859fee37b8a0a877c5a52dde9c\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.kyawlinnthant.database-core-1.8.0-10 C:\Users\PC\.gradle\caches\transforms-3\d91bb9a793d74b0cc81d9ae252997e49\transformed\core-1.8.0\res
+com.kyawlinnthant.database-lifecycle-viewmodel-2.5.1-11 C:\Users\PC\.gradle\caches\transforms-3\fa784c62397710f607ab5539e6ad66ea\transformed\lifecycle-viewmodel-2.5.1\res
+com.kyawlinnthant.database-sqlite-framework-2.3.1-12 C:\Users\PC\.gradle\caches\transforms-3\fc8a5fec121d046a232db3f46d6d3101\transformed\sqlite-framework-2.3.1\res
+com.kyawlinnthant.database-pngs-13 E:\Android Projects\ThreeForHundred\database\build\generated\res\pngs\release
+com.kyawlinnthant.database-resValues-14 E:\Android Projects\ThreeForHundred\database\build\generated\res\resValues\release
+com.kyawlinnthant.database-mergeReleaseResources-15 E:\Android Projects\ThreeForHundred\database\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.kyawlinnthant.database-mergeReleaseResources-16 E:\Android Projects\ThreeForHundred\database\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.kyawlinnthant.database-merged_res-17 E:\Android Projects\ThreeForHundred\database\build\intermediates\merged_res\release
+com.kyawlinnthant.database-main-18 E:\Android Projects\ThreeForHundred\database\src\main\res
+com.kyawlinnthant.database-release-19 E:\Android Projects\ThreeForHundred\database\src\release\res

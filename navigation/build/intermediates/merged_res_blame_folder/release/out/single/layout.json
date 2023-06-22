@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.kyawlinnthant.navigation-merged_res-44:/layout/notification_template_part_time.xml",
+        "source": "com.kyawlinnthant.navigation-core-1.9.0-32:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.kyawlinnthant.navigation-merged_res-44:/layout/notification_template_part_chronometer.xml",
+        "source": "com.kyawlinnthant.navigation-core-1.9.0-32:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.kyawlinnthant.navigation-merged_res-44:/layout/custom_dialog.xml",
+        "source": "com.kyawlinnthant.navigation-core-1.9.0-32:/layout/custom_dialog.xml"
+    }
+]

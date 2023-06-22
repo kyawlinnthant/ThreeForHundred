@@ -3,6 +3,7 @@
 plugins {
     id("com.kyawlinnthant.application")
     id("com.kyawlinnthant.compose.application")
+    id("com.kyawlinnthant.hilt")
 }
 
 android {
@@ -33,6 +34,9 @@ android {
 
 dependencies {
 
-    implementation(libs.bundles.androidx.compose)
-    debugImplementation(libs.bundles.androidx.compose.debug)
+    implementation(project(":theme"))
+    implementation(project(":navigation"))
+    implementation(project(":dispatchers"))
+    implementation(project(":network"))
+    implementation(project(":database"))
 }

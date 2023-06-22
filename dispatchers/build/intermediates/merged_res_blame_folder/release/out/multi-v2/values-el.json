@@ -4,7 +4,7 @@
             "outputFile": "com.kyawlinnthant.dispatchers-merged_res-12:/values-el/values-el.xml",
             "map": [
                 {
-                    "source": "/home/klt/.gradle/caches/transforms-3/ae1b8b7ac1bfaec03bf8b4bc6034f0c0/transformed/core-1.8.0/res/values-el/values-el.xml",
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\d91bb9a793d74b0cc81d9ae252997e49\\transformed\\core-1.8.0\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -19,7 +19,7 @@
             "outputFile": "com.kyawlinnthant.dispatchers-mergeReleaseResources-10:/values-el/values-el.xml",
             "map": [
                 {
-                    "source": "/home/klt/.gradle/caches/transforms-3/ae1b8b7ac1bfaec03bf8b4bc6034f0c0/transformed/core-1.8.0/res/values-el/values-el.xml",
+                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\d91bb9a793d74b0cc81d9ae252997e49\\transformed\\core-1.8.0\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
