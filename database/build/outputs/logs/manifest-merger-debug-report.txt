@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml:2:13-83
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml:2:13-83
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml:2:13-83
+	package
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml:2:13-83
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+	xmlns:android
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml:2:23-81
+uses-sdk
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml reason: use-sdk injection requested
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+	android:targetSdkVersion
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+	android:minSdkVersion
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9504242739496637920.xml

@@ -1,7 +1,5 @@
 @file:Suppress("UnstableApiUsage")
 
-include(":network")
-
 pluginManagement {
     repositories {
         includeBuild("build-logic")
@@ -19,4 +17,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ThreeForHundred"
 include(":app")
+include(":database")
+include(":network")
+include(":model")
 

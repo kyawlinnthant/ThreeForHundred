@@ -6,6 +6,7 @@ lifecycle-ktx = "2.6.1"
 splashscreen = "1.0.0"
 multidex = "2.0.1"
 desugaring = "2.0.3"
+serializationJson = "1.4.1"
 # compose
 compose-bom = "2023.05.01"
 compose-activity = "1.7.1"
@@ -35,6 +36,7 @@ androidx-lifecycle-ktx = { group = "androidx.lifecycle", name = "lifecycle-runti
 androidx-multidex = { group = "androidx.multidex", name = "multidex", version.ref = "multidex" }
 androidx-splash = { group = "androidx.core", name = "core-splashscreen", version.ref = "splashscreen" }
 desugaring = { group = "com.android.tools", name = "desugar_jdk_libs", version.ref = "desugaring" }
+kotlinx-serialization = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-json", version.ref = "serializationJson" }
 #compose
 androidx-compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "compose-bom" }
 compose-activity = { group = "androidx.activity", name = "activity-compose", version.ref = "compose-activity" }

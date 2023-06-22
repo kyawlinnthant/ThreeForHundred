@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kyawlinnthant.database-merged_res-16:/values-si/values-si.xml",
+            "map": [
+                {
+                    "source": "/home/klt/.gradle/caches/transforms-3/ae1b8b7ac1bfaec03bf8b4bc6034f0c0/transformed/core-1.8.0/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.kyawlinnthant.database-mergeReleaseResources-14:/values-si/values-si.xml",
+            "map": [
+                {
+                    "source": "/home/klt/.gradle/caches/transforms-3/ae1b8b7ac1bfaec03bf8b4bc6034f0c0/transformed/core-1.8.0/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
