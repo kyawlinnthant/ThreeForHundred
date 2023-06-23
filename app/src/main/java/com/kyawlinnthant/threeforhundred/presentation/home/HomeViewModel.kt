@@ -36,7 +36,7 @@ class HomeViewModel @Inject constructor(
         vmState.update {
             it.copy(
                 isLoading = true,
-                error = ""
+                error = "",
             )
         }
         getRandomQuote()
@@ -46,7 +46,7 @@ class HomeViewModel @Inject constructor(
         vmState.update {
             it.copy(
                 isLoading = true,
-                error = ""
+                error = "",
             )
         }
         viewModelScope.launch {

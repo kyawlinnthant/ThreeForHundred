@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml:2:13-83
-INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml:2:13-83
-INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml:2:13-83
+ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml:2:13-83
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml:2:13-83
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml:2:13-83
 	package
-		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
-		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml:2:13-83
-		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml:2:13-83
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
 	xmlns:android
-		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml:2:23-81
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml:2:23-81
 uses-sdk
-INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml reason: use-sdk injection requested
-INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
-INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
-INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
-INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml reason: use-sdk injection requested
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
 	android:targetSdkVersion
-		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
-		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
-		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
 	android:minSdkVersion
-		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
-		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
-		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3061396931165904889.xml

@@ -37,7 +37,7 @@ fun HomeUiData(
     onNavigateList: () -> Unit,
     onRequestNext: () -> Unit,
     isLoading: Boolean,
-    categoryBgAlpha: Float = 0.5f
+    categoryBgAlpha: Float = 0.5f,
 ) {
     Column(
         modifier = modifier
@@ -92,7 +92,7 @@ fun HomeUiData(
                 ),
                 border = BorderStroke(
                     width = 1.dp,
-                    color = MaterialTheme.colorScheme.onSurface.copy(categoryBgAlpha)
+                    color = MaterialTheme.colorScheme.onSurface.copy(categoryBgAlpha),
                 ),
             ) {
                 Icon(

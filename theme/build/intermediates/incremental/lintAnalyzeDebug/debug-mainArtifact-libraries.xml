@@ -13,10 +13,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.compose.material3:material3-window-size-class:1.1.0@aar"
-      jars="/home/klt/.gradle/caches/transforms-3/b7d2379323afce30cfa4270589fd7d88/transformed/material3-window-size-class-1.1.0/jars/classes.jar"
-      resolved="androidx.compose.material3:material3-window-size-class:1.1.0"
-      folder="/home/klt/.gradle/caches/transforms-3/b7d2379323afce30cfa4270589fd7d88/transformed/material3-window-size-class-1.1.0"
+      name="androidx.compose.material3:material3-window-size-class:1.1.1@aar"
+      jars="/home/klt/.gradle/caches/transforms-3/e6df813c414a87d94cf033b24c0432df/transformed/material3-window-size-class-1.1.1/jars/classes.jar"
+      resolved="androidx.compose.material3:material3-window-size-class:1.1.1"
+      folder="/home/klt/.gradle/caches/transforms-3/e6df813c414a87d94cf033b24c0432df/transformed/material3-window-size-class-1.1.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -26,10 +26,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.compose.material3:material3:1.1.0@aar"
-      jars="/home/klt/.gradle/caches/transforms-3/4e2a8b8a7be619a33110d2a383b538a1/transformed/material3-1.1.0/jars/classes.jar"
-      resolved="androidx.compose.material3:material3:1.1.0"
-      folder="/home/klt/.gradle/caches/transforms-3/4e2a8b8a7be619a33110d2a383b538a1/transformed/material3-1.1.0"
+      name="androidx.compose.material3:material3:1.1.1@aar"
+      jars="/home/klt/.gradle/caches/transforms-3/060286075c36be00c388ed275c1c02cc/transformed/material3-1.1.1/jars/classes.jar"
+      resolved="androidx.compose.material3:material3:1.1.1"
+      folder="/home/klt/.gradle/caches/transforms-3/060286075c36be00c388ed275c1c02cc/transformed/material3-1.1.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -489,10 +489,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.activity:activity:1.7.1@aar"
-      jars="/home/klt/.gradle/caches/transforms-3/8d279b2d8be56d25f7c1f4899a44c9e1/transformed/activity-1.7.1/jars/classes.jar"
-      resolved="androidx.activity:activity:1.7.1"
-      folder="/home/klt/.gradle/caches/transforms-3/8d279b2d8be56d25f7c1f4899a44c9e1/transformed/activity-1.7.1"
+      name="androidx.activity:activity:1.7.2@aar"
+      jars="/home/klt/.gradle/caches/transforms-3/40808bc34a79d582b4295a55c2e8f892/transformed/activity-1.7.2/jars/classes.jar"
+      resolved="androidx.activity:activity:1.7.2"
+      folder="/home/klt/.gradle/caches/transforms-3/40808bc34a79d582b4295a55c2e8f892/transformed/activity-1.7.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -502,10 +502,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.activity:activity-ktx:1.7.1@aar"
-      jars="/home/klt/.gradle/caches/transforms-3/95b8f82bcc487f62541206668b73507f/transformed/activity-ktx-1.7.1/jars/classes.jar"
-      resolved="androidx.activity:activity-ktx:1.7.1"
-      folder="/home/klt/.gradle/caches/transforms-3/95b8f82bcc487f62541206668b73507f/transformed/activity-ktx-1.7.1"
+      name="androidx.activity:activity-ktx:1.7.2@aar"
+      jars="/home/klt/.gradle/caches/transforms-3/0a952d7bdb6194a11244459b6e829b7f/transformed/activity-ktx-1.7.2/jars/classes.jar"
+      resolved="androidx.activity:activity-ktx:1.7.2"
+      folder="/home/klt/.gradle/caches/transforms-3/0a952d7bdb6194a11244459b6e829b7f/transformed/activity-ktx-1.7.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -515,10 +515,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.activity:activity-compose:1.7.1@aar"
-      jars="/home/klt/.gradle/caches/transforms-3/d1297a53b5286dcee25fc65a4dd6d7a9/transformed/activity-compose-1.7.1/jars/classes.jar"
-      resolved="androidx.activity:activity-compose:1.7.1"
-      folder="/home/klt/.gradle/caches/transforms-3/d1297a53b5286dcee25fc65a4dd6d7a9/transformed/activity-compose-1.7.1"
+      name="androidx.activity:activity-compose:1.7.2@aar"
+      jars="/home/klt/.gradle/caches/transforms-3/71b93f5573a929e665120f1a0c9b833d/transformed/activity-compose-1.7.2/jars/classes.jar"
+      resolved="androidx.activity:activity-compose:1.7.2"
+      folder="/home/klt/.gradle/caches/transforms-3/71b93f5573a929e665120f1a0c9b833d/transformed/activity-compose-1.7.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

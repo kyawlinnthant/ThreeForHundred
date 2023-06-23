@@ -34,12 +34,12 @@ fun LoadingAnimation(
     circleColor: Color = MaterialTheme.colorScheme.primary,
     spaceBetween: Dp = 10.dp,
     travelDistance: Dp = 20.dp,
-    delayBetween : Long = 100L,
-    durationMilli : Int = 1200,
-    bounceDelayOne : Int = 300,
-    bounceDelayTwo : Int = 600,
-    bounceDelayThree : Int = 1200,
-    keyframe : KeyframesSpec<Float> = keyframes {
+    delayBetween: Long = 100L,
+    durationMilli: Int = 1200,
+    bounceDelayOne: Int = 300,
+    bounceDelayTwo: Int = 600,
+    bounceDelayThree: Int = 1200,
+    keyframe: KeyframesSpec<Float> = keyframes {
         durationMillis = durationMilli
         0.0f at 0 with LinearOutSlowInEasing
         1.0f at bounceDelayOne with LinearOutSlowInEasing
@@ -50,9 +50,8 @@ fun LoadingAnimation(
     val circles = listOf(
         remember { Animatable(initialValue = 0f) },
         remember { Animatable(initialValue = 0f) },
-        remember { Animatable(initialValue = 0f) }
+        remember { Animatable(initialValue = 0f) },
     )
-
 
     circles.forEachIndexed { index, animated ->
         LaunchedEffect(key1 = animated) {
@@ -61,8 +60,8 @@ fun LoadingAnimation(
                 targetValue = 1f,
                 animationSpec = infiniteRepeatable(
                     animation = keyframe,
-                    repeatMode = RepeatMode.Restart
-                )
+                    repeatMode = RepeatMode.Restart,
+                ),
             )
         }
     }
@@ -72,7 +71,7 @@ fun LoadingAnimation(
 
     Row(
         modifier = modifier,
-        horizontalArrangement = Arrangement.spacedBy(spaceBetween)
+        horizontalArrangement = Arrangement.spacedBy(spaceBetween),
     ) {
         circleValues.forEach { value ->
             Box(
@@ -83,8 +82,8 @@ fun LoadingAnimation(
                     }
                     .background(
                         color = circleColor,
-                        shape = CircleShape
-                    )
+                        shape = CircleShape,
+                    ),
             )
         }
     }

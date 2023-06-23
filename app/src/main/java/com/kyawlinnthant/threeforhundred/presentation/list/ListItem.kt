@@ -26,7 +26,7 @@ import com.kyawlinnthant.threeforhundred.presentation.common.randomColor
 fun ListItem(
     modifier: Modifier = Modifier,
     quote: Quote,
-    authorBgAlpha : Float = 0.15f
+    authorBgAlpha: Float = 0.15f,
 ) {
     Column(
         modifier = Modifier
