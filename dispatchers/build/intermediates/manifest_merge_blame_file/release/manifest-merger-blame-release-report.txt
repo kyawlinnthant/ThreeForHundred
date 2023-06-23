@@ -3,6 +3,6 @@
 3    package="com.kyawlinnthant.dispatchers" >
 4
 5    <uses-sdk android:minSdkVersion="24" />
-5-->E:\Android Projects\ThreeForHundred\dispatchers\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest1462566212475668643.xml
+5-->/home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15734690583286093703.xml
 6
 7</manifest>

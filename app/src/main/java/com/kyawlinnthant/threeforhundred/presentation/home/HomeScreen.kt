@@ -23,39 +23,40 @@ import com.kyawlinnthant.threeforhundred.R
 @Composable
 fun HomeScreen(
     state: HomeUiState,
-    isLoading : Boolean,
+    isLoading: Boolean,
     onAction: (HomeAction) -> Unit,
 ) {
-
     Scaffold {
         Column(
             modifier = Modifier.padding(it),
-            horizontalAlignment = Alignment.CenterHorizontally
+            horizontalAlignment = Alignment.CenterHorizontally,
         ) {
-            Box(modifier = Modifier
-                .fillMaxSize()
-                .weight(1f), contentAlignment = Alignment.Center) {
+            Box(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .weight(1f),
+                contentAlignment = Alignment.Center,
+            ) {
                 when (state) {
                     HomeUiState.Loading -> Text(text = "loading")
                     HomeUiState.Empty -> Text(text = "empty")
-                    is HomeUiState.HasData -> Text(text = state.quote.text,modifier = Modifier.fillMaxWidth().padding(12.dp))
+                    is HomeUiState.HasData -> Text(text = state.quote.text, modifier = Modifier.fillMaxWidth().padding(12.dp))
                     is HomeUiState.NoDataError -> Text(text = state.error)
                 }
             }
-
 
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(16.dp),
                 verticalAlignment = Alignment.CenterVertically,
-                horizontalArrangement = Arrangement.SpaceEvenly
+                horizontalArrangement = Arrangement.SpaceEvenly,
             ) {
                 OutlinedIconButton(onClick = { onAction(HomeAction.GoToList) }) {
                     Icon(
                         painter = painterResource(id = R.drawable.baseline_playlist_play_24),
                         contentDescription = null,
-                        tint = MaterialTheme.colorScheme.onSurface
+                        tint = MaterialTheme.colorScheme.onSurface,
                     )
                 }
                 OutlinedButton(onClick = { onAction(HomeAction.RequestNext) }, enabled = !isLoading) {
@@ -63,7 +64,5 @@ fun HomeScreen(
                 }
             }
         }
-
-
     }
 }

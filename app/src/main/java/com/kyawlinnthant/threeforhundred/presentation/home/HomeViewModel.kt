@@ -18,7 +18,7 @@ import javax.inject.Inject
 @HiltViewModel
 class HomeViewModel @Inject constructor(
     private val repo: Repository,
-    private val navigator: AppNavigator
+    private val navigator: AppNavigator,
 ) : ViewModel() {
 
     private val vmState = MutableStateFlow(HomeViewModelState())
@@ -27,20 +27,20 @@ class HomeViewModel @Inject constructor(
         .stateIn(
             scope = viewModelScope,
             started = SharingStarted.Eagerly,
-            initialValue = vmState.value.asUiState()
+            initialValue = vmState.value.asUiState(),
         )
     val isLoading = vmState
         .map(HomeViewModelState::asLoading)
         .stateIn(
             scope = viewModelScope,
             started = SharingStarted.Eagerly,
-            initialValue = vmState.value.asLoading()
+            initialValue = vmState.value.asLoading(),
         )
 
     private fun requestNewQuote() {
         vmState.update {
             it.copy(
-                isLoading = true
+                isLoading = true,
             )
         }
         getRandomQuote()
@@ -54,7 +54,7 @@ class HomeViewModel @Inject constructor(
                     is DataResult.Fail -> {
                         vmState.update {
                             it.copy(
-                                error = result.message
+                                error = result.message,
                             )
                         }
                     }
@@ -63,14 +63,14 @@ class HomeViewModel @Inject constructor(
                         vmState.update {
                             it.copy(
                                 error = "",
-                                quote = result.data
+                                quote = result.data,
                             )
                         }
                     }
                 }
                 vmState.update {
                     it.copy(
-                        isLoading = false
+                        isLoading = false,
                     )
                 }
             }
@@ -83,7 +83,6 @@ class HomeViewModel @Inject constructor(
                 vmState.update {
                     it.copy(quote = quote)
                 }
-
             }
         }
     }
@@ -94,5 +93,4 @@ class HomeViewModel @Inject constructor(
             HomeAction.RequestNext -> requestNewQuote()
         }
     }
-
 }

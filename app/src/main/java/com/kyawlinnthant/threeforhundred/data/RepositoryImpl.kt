@@ -19,10 +19,9 @@ import javax.inject.Inject
 class RepositoryImpl @Inject constructor(
     private val api: ApiService,
     private val dao: QuoteDao,
-    @DispatchersModule.IO private val io: CoroutineDispatcher
+    @DispatchersModule.IO private val io: CoroutineDispatcher,
 ) : Repository {
     override suspend fun getRandomQuote(): DataResult<Quote> {
-
         return withContext(io) {
             val networkRequest = safeApiCall {
                 api.fetchRandomQuote()
@@ -43,11 +42,10 @@ class RepositoryImpl @Inject constructor(
                 }
             }
         }
-
     }
 
     override suspend fun getInitialQuote(): Quote {
-        return dao.queryQuotes().flowOn(io).firstOrNull()?.random()?.toVo() ?: Quote()
+        return dao.queryQuotes().flowOn(io).firstOrNull()?.randomOrNull()?.toVo() ?: Quote()
     }
 
     private suspend fun getRandomQuoteFromDb(): Quote? {

@@ -4,24 +4,7 @@
             "outputFile": "com.kyawlinnthant.navigation-mergeReleaseResources-42:/values-vi/values-vi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\cee016c9fa8fdcbb5c70ffc877273e40\\transformed\\core-1.9.0\\res\\values-vi\\values-vi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "1331",
-                        "endColumns": "100",
-                        "endOffsets": "1427"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\c75ad20a569023ccc6b82c0010df5cc4\\transformed\\ui-1.4.3\\res\\values-vi\\values-vi.xml",
+                    "source": "/home/klt/.gradle/caches/transforms-3/0f2b3ed650f1ff53c9244ac6d300bddb/transformed/ui-1.4.3/res/values-vi/values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "105,201,287,393,493,585,670,763,857,938,1008,1078,1168,1259,1432,1509,1575",
                         "endColumns": "95,85,105,99,91,84,92,93,80,69,69,89,90,71,76,65,113",
                         "endOffsets": "196,282,388,488,580,665,758,852,933,1003,1073,1163,1254,1326,1504,1570,1684"
+                    }
+                },
+                {
+                    "source": "/home/klt/.gradle/caches/transforms-3/4a40f20c15c4dfbe074b49403f9caf21/transformed/core-1.9.0/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1331",
+                        "endColumns": "100",
+                        "endOffsets": "1427"
                     }
                 }
             ]
@@ -43,24 +43,7 @@
             "outputFile": "com.kyawlinnthant.navigation-merged_res-44:/values-vi/values-vi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\cee016c9fa8fdcbb5c70ffc877273e40\\transformed\\core-1.9.0\\res\\values-vi\\values-vi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "1331",
-                        "endColumns": "100",
-                        "endOffsets": "1427"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\PC\\.gradle\\caches\\transforms-3\\c75ad20a569023ccc6b82c0010df5cc4\\transformed\\ui-1.4.3\\res\\values-vi\\values-vi.xml",
+                    "source": "/home/klt/.gradle/caches/transforms-3/0f2b3ed650f1ff53c9244ac6d300bddb/transformed/ui-1.4.3/res/values-vi/values-vi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -74,6 +57,23 @@
                         "startOffsets": "105,201,287,393,493,585,670,763,857,938,1008,1078,1168,1259,1432,1509,1575",
                         "endColumns": "95,85,105,99,91,84,92,93,80,69,69,89,90,71,76,65,113",
                         "endOffsets": "196,282,388,488,580,665,758,852,933,1003,1073,1163,1254,1326,1504,1570,1684"
+                    }
+                },
+                {
+                    "source": "/home/klt/.gradle/caches/transforms-3/4a40f20c15c4dfbe074b49403f9caf21/transformed/core-1.9.0/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1331",
+                        "endColumns": "100",
+                        "endOffsets": "1427"
                     }
                 }
             ]

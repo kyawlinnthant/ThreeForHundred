@@ -21,7 +21,7 @@ fun MainGraph() {
     NavigationInstructor(instructor = instructor, controller = navController)
     NavHost(
         navController = navController,
-        startDestination = Screen.Home.route
+        startDestination = Screen.Home.route,
     ) {
         composable(route = Screen.Home.route) {
             val homeVm: HomeViewModel = hiltViewModel()
@@ -34,7 +34,7 @@ fun MainGraph() {
             HomeScreen(
                 state = uiState.value,
                 isLoading = isLoading.value,
-                onAction = homeVm::onAction
+                onAction = homeVm::onAction,
             )
         }
         composable(route = Screen.List.route) {
@@ -45,7 +45,6 @@ fun MainGraph() {
             }
             ListScreen(quotes = quotes.value)
         }
-
     }
 }
 

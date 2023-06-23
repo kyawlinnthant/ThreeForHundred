@@ -15,6 +15,6 @@ interface ApiService {
     @GET(RANDOM)
     suspend fun fetchRandomQuote(
         @Query("category") category: String = DEFAULT_CATEGORY,
-        @Query("count") count: Int = DEFAULT_COUNT,
+        @Query("count") count: Int = DEFAULT_COUNT
     ): Response<List<QuoteDTO>>
 }

@@ -1,12 +1,12 @@
 <lint-module
     format="1"
-    dir="E:\Android Projects\ThreeForHundred\database"
+    dir="/home/klt/AndroidStudioProjects/ThreeForHundred/database"
     name=":database"
     type="LIBRARY"
     maven="ThreeForHundred:database:"
     agpVersion="8.0.2"
     buildFolder="build"
-    bootClassPath="C:\Users\PC\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\PC\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    bootClassPath="/home/klt/Android/Sdk/platforms/android-34/android.jar:/home/klt/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
     javaSourceLevel="17"
     compileTarget="android-34"
     neverShrinking="true">

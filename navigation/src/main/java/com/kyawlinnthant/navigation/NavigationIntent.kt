@@ -1,6 +1,5 @@
 package com.kyawlinnthant.navigation
 
-
 sealed interface NavigationIntent {
 
     data class Back(

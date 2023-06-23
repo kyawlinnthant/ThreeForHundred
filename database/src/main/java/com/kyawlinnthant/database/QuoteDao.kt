@@ -12,5 +12,5 @@ interface QuoteDao {
     suspend fun insertQuote(quote: QuoteEntity)
 
     @Query("SELECT * FROM ${QuoteEntity.TABLE_NAME}")
-    fun queryQuotes() : Flow<List<QuoteEntity>>
+    fun queryQuotes(): Flow<List<QuoteEntity>>
 }

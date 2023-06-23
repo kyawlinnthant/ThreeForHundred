@@ -13,10 +13,9 @@ import com.kyawlinnthant.model.Quote
 
 @Composable
 fun ListScreen(quotes: List<Quote>) {
-
-    LazyColumn(modifier = Modifier.fillMaxSize()){
-        items(items = quotes){
-            Text(text = it.text,modifier = Modifier.fillMaxWidth().padding(12.dp))
+    LazyColumn(modifier = Modifier.fillMaxSize()) {
+        items(items = quotes) {
+            Text(text = it.text, modifier = Modifier.fillMaxWidth().padding(12.dp))
         }
     }
 }

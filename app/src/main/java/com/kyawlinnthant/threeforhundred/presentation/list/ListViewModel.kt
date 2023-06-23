@@ -14,7 +14,7 @@ import javax.inject.Inject
 
 @HiltViewModel
 class ListViewModel @Inject constructor(
-    private val repo: Repository
+    private val repo: Repository,
 ) : ViewModel() {
 
     private val vmState = MutableStateFlow(ListViewModelState())
@@ -23,7 +23,7 @@ class ListViewModel @Inject constructor(
         .stateIn(
             scope = viewModelScope,
             started = SharingStarted.Eagerly,
-            initialValue = vmState.value.uiQuotes()
+            initialValue = vmState.value.uiQuotes(),
         )
 
     fun getQuotes() {
@@ -31,7 +31,7 @@ class ListViewModel @Inject constructor(
             repo.getQuotes().collect { quotes ->
                 vmState.update {
                     it.copy(
-                        quotes = quotes
+                        quotes = quotes,
                     )
                 }
             }

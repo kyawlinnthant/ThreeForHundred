@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml:2:13-83
-INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml:2:13-83
-INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml:2:13-83
+ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml:2:13-83
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml:2:13-83
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml:2:13-83
 	package
-		INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
-		ADDED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml:2:13-83
-		INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml:2:13-83
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
 	xmlns:android
-		ADDED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml:2:23-81
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml:2:23-81
 uses-sdk
-INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml reason: use-sdk injection requested
-INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
-INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
-INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
-INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml reason: use-sdk injection requested
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
+INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
 	android:targetSdkVersion
-		INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
-		ADDED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
-		INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
 	android:minSdkVersion
-		INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
-		ADDED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
-		INJECTED from E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest11580327661738205830.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
+		ADDED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml
+		INJECTED from /home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest1585425754190426600.xml

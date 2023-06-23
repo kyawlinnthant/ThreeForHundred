@@ -3,6 +3,6 @@
 3    package="com.kyawlinnthant.theme" >
 4
 5    <uses-sdk android:minSdkVersion="24" />
-5-->E:\Android Projects\ThreeForHundred\theme\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest6236305698337159270.xml
+5-->/home/klt/AndroidStudioProjects/ThreeForHundred/theme/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest16800453217042731454.xml
 6
 7</manifest>

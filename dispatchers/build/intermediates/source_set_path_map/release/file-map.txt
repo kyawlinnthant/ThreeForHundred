@@ -1,16 +1,16 @@
-com.kyawlinnthant.dispatchers-lifecycle-runtime-2.5.1-0 C:\Users\PC\.gradle\caches\transforms-3\0cac4e5c998aa763a7343778cda50888\transformed\lifecycle-runtime-2.5.1\res
-com.kyawlinnthant.dispatchers-savedstate-1.2.0-1 C:\Users\PC\.gradle\caches\transforms-3\26174fc25cc709c220552c47b97905e9\transformed\savedstate-1.2.0\res
-com.kyawlinnthant.dispatchers-activity-1.5.1-2 C:\Users\PC\.gradle\caches\transforms-3\53a48b3ef012f8f976ff1252652fa8cb\transformed\activity-1.5.1\res
-com.kyawlinnthant.dispatchers-annotation-experimental-1.1.0-3 C:\Users\PC\.gradle\caches\transforms-3\6c439d7d83c5337e5f5bbe8d66f5facd\transformed\annotation-experimental-1.1.0\res
-com.kyawlinnthant.dispatchers-fragment-1.5.1-4 C:\Users\PC\.gradle\caches\transforms-3\6ffda7e9d32be79221dc653fd8aeebdb\transformed\fragment-1.5.1\res
-com.kyawlinnthant.dispatchers-lifecycle-livedata-core-2.5.1-5 C:\Users\PC\.gradle\caches\transforms-3\8a5f6460a89769180f8744947aa45b70\transformed\lifecycle-livedata-core-2.5.1\res
-com.kyawlinnthant.dispatchers-lifecycle-viewmodel-savedstate-2.5.1-6 C:\Users\PC\.gradle\caches\transforms-3\c01ded859fee37b8a0a877c5a52dde9c\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
-com.kyawlinnthant.dispatchers-core-1.8.0-7 C:\Users\PC\.gradle\caches\transforms-3\d91bb9a793d74b0cc81d9ae252997e49\transformed\core-1.8.0\res
-com.kyawlinnthant.dispatchers-lifecycle-viewmodel-2.5.1-8 C:\Users\PC\.gradle\caches\transforms-3\fa784c62397710f607ab5539e6ad66ea\transformed\lifecycle-viewmodel-2.5.1\res
-com.kyawlinnthant.dispatchers-pngs-9 E:\Android Projects\ThreeForHundred\dispatchers\build\generated\res\pngs\release
-com.kyawlinnthant.dispatchers-resValues-10 E:\Android Projects\ThreeForHundred\dispatchers\build\generated\res\resValues\release
-com.kyawlinnthant.dispatchers-mergeReleaseResources-11 E:\Android Projects\ThreeForHundred\dispatchers\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
-com.kyawlinnthant.dispatchers-mergeReleaseResources-12 E:\Android Projects\ThreeForHundred\dispatchers\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-com.kyawlinnthant.dispatchers-merged_res-13 E:\Android Projects\ThreeForHundred\dispatchers\build\intermediates\merged_res\release
-com.kyawlinnthant.dispatchers-main-14 E:\Android Projects\ThreeForHundred\dispatchers\src\main\res
-com.kyawlinnthant.dispatchers-release-15 E:\Android Projects\ThreeForHundred\dispatchers\src\release\res
+com.kyawlinnthant.dispatchers-lifecycle-runtime-2.5.1-0 /home/klt/.gradle/caches/transforms-3/1cfb7487e78fbc0eae385037ae6a9d7a/transformed/lifecycle-runtime-2.5.1/res
+com.kyawlinnthant.dispatchers-savedstate-1.2.0-1 /home/klt/.gradle/caches/transforms-3/33ad01e26dffe2bd4eace63b6ec43eaf/transformed/savedstate-1.2.0/res
+com.kyawlinnthant.dispatchers-annotation-experimental-1.1.0-2 /home/klt/.gradle/caches/transforms-3/5938fcd7fadd41484e42ea28066fc618/transformed/annotation-experimental-1.1.0/res
+com.kyawlinnthant.dispatchers-fragment-1.5.1-3 /home/klt/.gradle/caches/transforms-3/598c813a366e319255c28388f865273e/transformed/fragment-1.5.1/res
+com.kyawlinnthant.dispatchers-activity-1.5.1-4 /home/klt/.gradle/caches/transforms-3/772aff096d277dbad2b96e718b68af68/transformed/activity-1.5.1/res
+com.kyawlinnthant.dispatchers-lifecycle-livedata-core-2.5.1-5 /home/klt/.gradle/caches/transforms-3/7c1c2860a7028238be410c845e6a9c70/transformed/lifecycle-livedata-core-2.5.1/res
+com.kyawlinnthant.dispatchers-core-1.8.0-6 /home/klt/.gradle/caches/transforms-3/826e5627384248f62ae42b630081f673/transformed/core-1.8.0/res
+com.kyawlinnthant.dispatchers-lifecycle-viewmodel-savedstate-2.5.1-7 /home/klt/.gradle/caches/transforms-3/a60c3499fb0576d635cb5f4f2dfdec63/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
+com.kyawlinnthant.dispatchers-lifecycle-viewmodel-2.5.1-8 /home/klt/.gradle/caches/transforms-3/de300943476547574a9de643cec42a03/transformed/lifecycle-viewmodel-2.5.1/res
+com.kyawlinnthant.dispatchers-pngs-9 /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/generated/res/pngs/release
+com.kyawlinnthant.dispatchers-resValues-10 /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/generated/res/resValues/release
+com.kyawlinnthant.dispatchers-mergeReleaseResources-11 /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.kyawlinnthant.dispatchers-mergeReleaseResources-12 /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.kyawlinnthant.dispatchers-merged_res-13 /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/build/intermediates/merged_res/release
+com.kyawlinnthant.dispatchers-main-14 /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/src/main/res
+com.kyawlinnthant.dispatchers-release-15 /home/klt/AndroidStudioProjects/ThreeForHundred/dispatchers/src/release/res

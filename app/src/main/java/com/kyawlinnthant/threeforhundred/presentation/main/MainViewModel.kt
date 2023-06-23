@@ -7,5 +7,5 @@ import javax.inject.Inject
 
 @HiltViewModel
 class MainViewModel @Inject constructor(
-    val appNavigator: AppNavigator
+    val appNavigator: AppNavigator,
 ) : ViewModel()
