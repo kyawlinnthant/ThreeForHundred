@@ -49,7 +49,7 @@ class RepositoryImpl @Inject constructor(
     }
 
     private suspend fun getRandomQuoteFromDb(): Quote? {
-        return dao.queryQuotes().firstOrNull()?.random()?.toVo()
+        return dao.queryQuotes().firstOrNull()?.randomOrNull()?.toVo()
     }
 
     override suspend fun getQuotes(): Flow<List<Quote>> {
