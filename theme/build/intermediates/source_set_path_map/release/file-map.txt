@@ -1,0 +1,53 @@
+com.kyawlinnthant.theme-runtime-1.4.3-0 C:\Users\PC\.gradle\caches\transforms-3\00cd9bdd988ce84488fe6f7609be2c58\transformed\runtime-1.4.3\res
+com.kyawlinnthant.theme-navigation-common-2.5.3-1 C:\Users\PC\.gradle\caches\transforms-3\0613f7654ea0c81f4d912f95904baf2f\transformed\navigation-common-2.5.3\res
+com.kyawlinnthant.theme-animation-core-1.4.3-2 C:\Users\PC\.gradle\caches\transforms-3\0bca8275a8535540dbbbd25f292f0322\transformed\animation-core-1.4.3\res
+com.kyawlinnthant.theme-ui-util-1.4.3-3 C:\Users\PC\.gradle\caches\transforms-3\0bd1d1df4311ac5fa80edc9dcb8b986f\transformed\ui-util-1.4.3\res
+com.kyawlinnthant.theme-material-icons-core-1.4.3-4 C:\Users\PC\.gradle\caches\transforms-3\0c5b53d25cf236ea71ebf8d3bba90839\transformed\material-icons-core-1.4.3\res
+com.kyawlinnthant.theme-ui-text-1.4.3-5 C:\Users\PC\.gradle\caches\transforms-3\0f8cd2b8d956aac9692674744aee8bab\transformed\ui-text-1.4.3\res
+com.kyawlinnthant.theme-profileinstaller-1.3.0-6 C:\Users\PC\.gradle\caches\transforms-3\11a3995f0860d27c8d4623fef4a1177e\transformed\profileinstaller-1.3.0\res
+com.kyawlinnthant.theme-savedstate-1.2.1-7 C:\Users\PC\.gradle\caches\transforms-3\18957f4c76a556689b7c62c55aa62e2d\transformed\savedstate-1.2.1\res
+com.kyawlinnthant.theme-lifecycle-runtime-ktx-2.6.1-8 C:\Users\PC\.gradle\caches\transforms-3\21d90d63535104d4acc874757a981fd6\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.kyawlinnthant.theme-foundation-1.4.3-9 C:\Users\PC\.gradle\caches\transforms-3\234a0ea744159282ae8fad085e4f67c4\transformed\foundation-1.4.3\res
+com.kyawlinnthant.theme-navigation-common-ktx-2.5.3-10 C:\Users\PC\.gradle\caches\transforms-3\2faebc467d550144c37e37a0f79fffb4\transformed\navigation-common-ktx-2.5.3\res
+com.kyawlinnthant.theme-navigation-runtime-2.5.3-11 C:\Users\PC\.gradle\caches\transforms-3\3be579da3788994130cbe0eb3b52cd1e\transformed\navigation-runtime-2.5.3\res
+com.kyawlinnthant.theme-lifecycle-viewmodel-ktx-2.6.1-12 C:\Users\PC\.gradle\caches\transforms-3\46c8aacaaf0e5d35be8d917250fdba05\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.kyawlinnthant.theme-navigation-compose-2.5.3-13 C:\Users\PC\.gradle\caches\transforms-3\477de71c87a40b396b2f754ded8e1ed6\transformed\navigation-compose-2.5.3\res
+com.kyawlinnthant.theme-activity-ktx-1.7.1-14 C:\Users\PC\.gradle\caches\transforms-3\53335adc0937139d2b7144363a32b141\transformed\activity-ktx-1.7.1\res
+com.kyawlinnthant.theme-activity-compose-1.7.1-15 C:\Users\PC\.gradle\caches\transforms-3\55a89786586e6b36d958071d582de7c4\transformed\activity-compose-1.7.1\res
+com.kyawlinnthant.theme-ui-unit-1.4.3-16 C:\Users\PC\.gradle\caches\transforms-3\5af072eb4386482da64cc59458a32a81\transformed\ui-unit-1.4.3\res
+com.kyawlinnthant.theme-foundation-layout-1.4.3-17 C:\Users\PC\.gradle\caches\transforms-3\6170ca5423d5b2264a7d132d835ef11b\transformed\foundation-layout-1.4.3\res
+com.kyawlinnthant.theme-navigation-runtime-ktx-2.5.3-18 C:\Users\PC\.gradle\caches\transforms-3\6e8a1dbf0442d57da0e95cfe3bdcd332\transformed\navigation-runtime-ktx-2.5.3\res
+com.kyawlinnthant.theme-fragment-1.5.1-19 C:\Users\PC\.gradle\caches\transforms-3\6ffda7e9d32be79221dc653fd8aeebdb\transformed\fragment-1.5.1\res
+com.kyawlinnthant.theme-lifecycle-livedata-2.6.1-20 C:\Users\PC\.gradle\caches\transforms-3\7419242fcd0c5470b7ee0548d291d510\transformed\lifecycle-livedata-2.6.1\res
+com.kyawlinnthant.theme-lifecycle-livedata-core-2.6.1-21 C:\Users\PC\.gradle\caches\transforms-3\808ecc11d0060b6c5814594b955446fb\transformed\lifecycle-livedata-core-2.6.1\res
+com.kyawlinnthant.theme-annotation-experimental-1.3.0-22 C:\Users\PC\.gradle\caches\transforms-3\83d915a96de851326b876d3a7bcac9c3\transformed\annotation-experimental-1.3.0\res
+com.kyawlinnthant.theme-lifecycle-process-2.6.1-23 C:\Users\PC\.gradle\caches\transforms-3\89558749a85ea82884df92a750a1880c\transformed\lifecycle-process-2.6.1\res
+com.kyawlinnthant.theme-ui-geometry-1.4.3-24 C:\Users\PC\.gradle\caches\transforms-3\8a1643cb6e96f125081c4de61b8cc1f7\transformed\ui-geometry-1.4.3\res
+com.kyawlinnthant.theme-activity-1.7.1-25 C:\Users\PC\.gradle\caches\transforms-3\914aa512698329fa5c1dcc43158bf617\transformed\activity-1.7.1\res
+com.kyawlinnthant.theme-material3-window-size-class-1.1.0-26 C:\Users\PC\.gradle\caches\transforms-3\9354ee8f053dff0f4379c0258d5c7738\transformed\material3-window-size-class-1.1.0\res
+com.kyawlinnthant.theme-runtime-saveable-1.4.3-27 C:\Users\PC\.gradle\caches\transforms-3\a7477a96121bfa5c9627996521cc5dd4\transformed\runtime-saveable-1.4.3\res
+com.kyawlinnthant.theme-lifecycle-runtime-2.6.1-28 C:\Users\PC\.gradle\caches\transforms-3\a7478cdd097e39f09e66ca127811d40f\transformed\lifecycle-runtime-2.6.1\res
+com.kyawlinnthant.theme-lifecycle-viewmodel-compose-2.6.1-29 C:\Users\PC\.gradle\caches\transforms-3\a772c51c55af85201fed5494d8248f55\transformed\lifecycle-viewmodel-compose-2.6.1\res
+com.kyawlinnthant.theme-lifecycle-viewmodel-savedstate-2.6.1-30 C:\Users\PC\.gradle\caches\transforms-3\af2b35f977e8c4d54308be2e94f6b635\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.kyawlinnthant.theme-core-runtime-2.2.0-31 C:\Users\PC\.gradle\caches\transforms-3\b5704e69c5f4bc0affe0f408c4f33400\transformed\core-runtime-2.2.0\res
+com.kyawlinnthant.theme-window-1.0.0-32 C:\Users\PC\.gradle\caches\transforms-3\bbfeb820905bf9e957c78aea4307904c\transformed\window-1.0.0\res
+com.kyawlinnthant.theme-material-ripple-1.4.3-33 C:\Users\PC\.gradle\caches\transforms-3\bc1467d937647c9b75ea4419cf314547\transformed\material-ripple-1.4.3\res
+com.kyawlinnthant.theme-startup-runtime-1.1.1-34 C:\Users\PC\.gradle\caches\transforms-3\be035067ad0846f26dfc3aea141487e0\transformed\startup-runtime-1.1.1\res
+com.kyawlinnthant.theme-ui-graphics-1.4.3-35 C:\Users\PC\.gradle\caches\transforms-3\c089c5cd9a9081bc5df1732d9e0ace01\transformed\ui-graphics-1.4.3\res
+com.kyawlinnthant.theme-ui-1.4.3-36 C:\Users\PC\.gradle\caches\transforms-3\c75ad20a569023ccc6b82c0010df5cc4\transformed\ui-1.4.3\res
+com.kyawlinnthant.theme-core-1.9.0-37 C:\Users\PC\.gradle\caches\transforms-3\cee016c9fa8fdcbb5c70ffc877273e40\transformed\core-1.9.0\res
+com.kyawlinnthant.theme-core-ktx-1.9.0-38 C:\Users\PC\.gradle\caches\transforms-3\cf6cc1638d1d9c7ce1e369ce9a7215d4\transformed\core-ktx-1.9.0\res
+com.kyawlinnthant.theme-animation-1.4.3-39 C:\Users\PC\.gradle\caches\transforms-3\d11a5194094a68b2d03da4583178799e\transformed\animation-1.4.3\res
+com.kyawlinnthant.theme-material3-1.1.0-40 C:\Users\PC\.gradle\caches\transforms-3\da1f5e7be1fd3a6472618c0098bcb0d6\transformed\material3-1.1.0\res
+com.kyawlinnthant.theme-ui-tooling-preview-1.4.3-41 C:\Users\PC\.gradle\caches\transforms-3\e606b74e703f9de975b972431abb4b77\transformed\ui-tooling-preview-1.4.3\res
+com.kyawlinnthant.theme-emoji2-1.3.0-42 C:\Users\PC\.gradle\caches\transforms-3\f0afdb00472508d56112a9aedc5242ea\transformed\emoji2-1.3.0\res
+com.kyawlinnthant.theme-customview-poolingcontainer-1.0.0-43 C:\Users\PC\.gradle\caches\transforms-3\f1adf436d98ff7c36f9546f5dfebc33f\transformed\customview-poolingcontainer-1.0.0\res
+com.kyawlinnthant.theme-savedstate-ktx-1.2.1-44 C:\Users\PC\.gradle\caches\transforms-3\f305a0ed25630a16b6741ed7d70f471d\transformed\savedstate-ktx-1.2.1\res
+com.kyawlinnthant.theme-lifecycle-viewmodel-2.6.1-45 C:\Users\PC\.gradle\caches\transforms-3\f67fe567066d0cdd5faf0a4245201a47\transformed\lifecycle-viewmodel-2.6.1\res
+com.kyawlinnthant.theme-pngs-46 E:\Android Projects\ThreeForHundred\theme\build\generated\res\pngs\release
+com.kyawlinnthant.theme-resValues-47 E:\Android Projects\ThreeForHundred\theme\build\generated\res\resValues\release
+com.kyawlinnthant.theme-mergeReleaseResources-48 E:\Android Projects\ThreeForHundred\theme\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.kyawlinnthant.theme-mergeReleaseResources-49 E:\Android Projects\ThreeForHundred\theme\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.kyawlinnthant.theme-merged_res-50 E:\Android Projects\ThreeForHundred\theme\build\intermediates\merged_res\release
+com.kyawlinnthant.theme-main-51 E:\Android Projects\ThreeForHundred\theme\src\main\res
+com.kyawlinnthant.theme-release-52 E:\Android Projects\ThreeForHundred\theme\src\release\res

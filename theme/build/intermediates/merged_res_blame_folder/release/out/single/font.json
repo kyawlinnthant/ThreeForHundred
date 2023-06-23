@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/mono_extra_light_italic.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/mono_extra_light_italic.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/ibmplex_mono_bold.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/ibmplex_mono_bold.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/ibmplex_mono_regular.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/ibmplex_mono_regular.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/ibmplex_mono_bold_italic.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/ibmplex_mono_bold_italic.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/mono_medium_italic.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/mono_medium_italic.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/mono_extra_light.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/mono_extra_light.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/mono_bold_italic.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/mono_bold_italic.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/ibmplex_mono_medium.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/ibmplex_mono_medium.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/mono_light_italic.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/mono_light_italic.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/mono_semi_bold_italic.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/mono_semi_bold_italic.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/ibmplex_mono_thin.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/ibmplex_mono_thin.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/ibmplex_italic.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/ibmplex_italic.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/mono_semi_bold.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/mono_semi_bold.ttf"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/font/ibmplex_light.ttf",
+        "source": "com.kyawlinnthant.theme-main-50:/font/ibmplex_light.ttf"
+    }
+]

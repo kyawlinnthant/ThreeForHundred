@@ -1,26 +1,26 @@
 [
     {
         "merged": "com.kyawlinnthant.database-merged_res-16:/animator/fragment_open_exit.xml",
-        "source": "com.kyawlinnthant.database-fragment-1.5.1-10:/animator/fragment_open_exit.xml"
+        "source": "com.kyawlinnthant.database-fragment-1.5.1-5:/animator/fragment_open_exit.xml"
     },
     {
         "merged": "com.kyawlinnthant.database-merged_res-16:/animator/fragment_close_enter.xml",
-        "source": "com.kyawlinnthant.database-fragment-1.5.1-10:/animator/fragment_close_enter.xml"
+        "source": "com.kyawlinnthant.database-fragment-1.5.1-5:/animator/fragment_close_enter.xml"
     },
     {
         "merged": "com.kyawlinnthant.database-merged_res-16:/animator/fragment_open_enter.xml",
-        "source": "com.kyawlinnthant.database-fragment-1.5.1-10:/animator/fragment_open_enter.xml"
+        "source": "com.kyawlinnthant.database-fragment-1.5.1-5:/animator/fragment_open_enter.xml"
     },
     {
         "merged": "com.kyawlinnthant.database-merged_res-16:/animator/fragment_fade_enter.xml",
-        "source": "com.kyawlinnthant.database-fragment-1.5.1-10:/animator/fragment_fade_enter.xml"
+        "source": "com.kyawlinnthant.database-fragment-1.5.1-5:/animator/fragment_fade_enter.xml"
     },
     {
         "merged": "com.kyawlinnthant.database-merged_res-16:/animator/fragment_fade_exit.xml",
-        "source": "com.kyawlinnthant.database-fragment-1.5.1-10:/animator/fragment_fade_exit.xml"
+        "source": "com.kyawlinnthant.database-fragment-1.5.1-5:/animator/fragment_fade_exit.xml"
     },
     {
         "merged": "com.kyawlinnthant.database-merged_res-16:/animator/fragment_close_exit.xml",
-        "source": "com.kyawlinnthant.database-fragment-1.5.1-10:/animator/fragment_close_exit.xml"
+        "source": "com.kyawlinnthant.database-fragment-1.5.1-5:/animator/fragment_close_exit.xml"
     }
 ]

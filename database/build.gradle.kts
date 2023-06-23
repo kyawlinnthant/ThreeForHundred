@@ -6,5 +6,7 @@ android {
     namespace = "com.kyawlinnthant.database"
 }
 dependencies {
+    api(project(":model"))
     api(libs.bundles.room)
+    kapt(libs.room.compiler)
 }

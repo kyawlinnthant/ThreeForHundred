@@ -3,6 +3,6 @@
 3    package="com.kyawlinnthant.database" >
 4
 5    <uses-sdk android:minSdkVersion="24" />
-5-->/home/klt/AndroidStudioProjects/ThreeForHundred/database/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17251369742182546580.xml
+5-->E:\Android Projects\ThreeForHundred\database\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest11379827122201268347.xml
 6
 7</manifest>

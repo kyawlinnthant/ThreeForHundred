@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/layout/notification_template_part_chronometer.xml",
+        "source": "com.kyawlinnthant.theme-core-1.9.0-37:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/layout/custom_dialog.xml",
+        "source": "com.kyawlinnthant.theme-core-1.9.0-37:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.kyawlinnthant.theme-merged_res-49:/layout/notification_template_part_time.xml",
+        "source": "com.kyawlinnthant.theme-core-1.9.0-37:/layout/notification_template_part_time.xml"
+    }
+]
