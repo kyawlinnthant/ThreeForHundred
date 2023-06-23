@@ -29,6 +29,9 @@ hilt-navigation = "1.0.0"
 # test
 test-unit-junit = "4.13.2"
 test-android-junit = "1.1.5"
+coroutines-test = "1.6.4"
+google-truth = "1.3.3"
+mockwebserver = "4.11.0"
 # optimizor
 ktlint = "11.4.0"
 ktlint-version = "0.49.1"
@@ -76,6 +79,10 @@ kotlin-gradle-plugin = { group = "org.jetbrains.kotlin", name = "kotlin-gradle-p
 
 #unit test
 test-unit-junit = { group = "junit", name = "junit", version.ref = "test-unit-junit" }
+coroutines-test = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-test", version.ref = "coroutines-test" }
+mock-web-server = { group = "com.squareup.okhttp3", name = "mockwebserver", version.ref = "mockwebserver" }
+test-unit-truth = { group = "com.google.truth", name = "truth", version.ref = "google-truth" }
+
 #android test
 test-android-junit = { group = "androidx.test.ext", name = "junit", version.ref = "test-android-junit" }
 test-android-compose-junit = { group = "androidx.compose.ui", name = "ui-test-junit4" }

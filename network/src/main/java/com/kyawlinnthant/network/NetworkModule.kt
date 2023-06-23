@@ -10,11 +10,21 @@ import kotlinx.serialization.json.Json
 import okhttp3.MediaType.Companion.toMediaType
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
+import javax.inject.Qualifier
 import javax.inject.Singleton
 
 @Module
 @InstallIn(SingletonComponent::class)
 object NetworkModule {
+
+    @Qualifier
+    @Retention(AnnotationRetention.BINARY)
+    annotation class BASEURL
+
+    @BASEURL
+    @Singleton
+    @Provides
+    fun provideBaseUrl(): String = BuildConfig.BASE_URL
 
     @Provides
     @Singleton
@@ -25,13 +35,16 @@ object NetworkModule {
 
     @Provides
     @Singleton
-    fun provideRetrofit(client: OkHttpClient): Retrofit = Retrofit.Builder()
-        .baseUrl(BuildConfig.BASE_URL)
+    fun provideRetrofit(
+        client: OkHttpClient,
+        @BASEURL baseUrl : String,
+    ): Retrofit = Retrofit.Builder()
+        .baseUrl(baseUrl)
         .client(client)
         .addConverterFactory(Json.asConverterFactory("application/json".toMediaType()))
         .build()
 
     @Provides
     @Singleton
-    fun provideService(retrofit: Retrofit): ApiService = retrofit.create(ApiService::class.java)
+    fun provideService(retrofit: Retrofit): QuoteApi = retrofit.create(QuoteApi::class.java)
 }

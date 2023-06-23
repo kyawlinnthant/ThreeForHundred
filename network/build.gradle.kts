@@ -31,4 +31,8 @@ dependencies {
     api(project(":model"))
     api(libs.bundles.network)
     api(libs.kotlinx.serialization)
+
+    testApi(project(":testrule"))
+    testImplementation(libs.test.unit.truth)
+    testImplementation(libs.mock.web.server)
 }

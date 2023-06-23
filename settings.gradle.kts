@@ -23,4 +23,5 @@ include(":model")
 include(":dispatchers")
 include(":navigation")
 include(":theme")
+include(":testrule")
 

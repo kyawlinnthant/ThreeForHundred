@@ -4,7 +4,7 @@ import com.kyawlinnthant.database.QuoteDao
 import com.kyawlinnthant.database.toEntity
 import com.kyawlinnthant.dispatchers.DispatchersModule
 import com.kyawlinnthant.model.Quote
-import com.kyawlinnthant.network.ApiService
+import com.kyawlinnthant.network.QuoteApi
 import com.kyawlinnthant.network.DataResult
 import com.kyawlinnthant.network.safeApiCall
 import com.kyawlinnthant.threeforhundred.domain.Repository
@@ -17,7 +17,7 @@ import kotlinx.coroutines.withContext
 import javax.inject.Inject
 
 class RepositoryImpl @Inject constructor(
-    private val api: ApiService,
+    private val api: QuoteApi,
     private val dao: QuoteDao,
     @DispatchersModule.IO private val io: CoroutineDispatcher,
 ) : Repository {
