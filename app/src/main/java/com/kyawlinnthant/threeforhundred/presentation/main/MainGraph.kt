@@ -26,14 +26,12 @@ fun MainGraph() {
         composable(route = Screen.Home.route) {
             val homeVm: HomeViewModel = hiltViewModel()
             val uiState = homeVm.uiState.collectAsState()
-            val isLoading = homeVm.isLoading.collectAsState()
             LaunchedEffect(key1 = uiState) {
                 homeVm.getInitialQuote()
                 homeVm.getRandomQuote()
             }
             HomeScreen(
                 state = uiState.value,
-                isLoading = isLoading.value,
                 onAction = homeVm::onAction,
             )
         }

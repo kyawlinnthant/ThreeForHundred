@@ -10,8 +10,11 @@ data class HomeViewModelState(
     fun asUiState(): HomeUiState = when {
         quote == Quote() && error.isEmpty() -> HomeUiState.Loading
         quote == Quote() && error.isNotEmpty() -> HomeUiState.NoDataError(error = error)
-        quote != Quote() && error.isEmpty() -> HomeUiState.HasData(quote = quote)
+        quote != Quote() && error.isEmpty() -> HomeUiState.HasData(
+            quote = quote,
+            isLoading = isLoading,
+        )
+
         else -> HomeUiState.Empty
     }
-    fun asLoading() = isLoading
 }

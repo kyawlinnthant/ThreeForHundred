@@ -6,5 +6,5 @@ sealed interface HomeUiState {
     object Loading : HomeUiState
     data class NoDataError(val error: String) : HomeUiState
     object Empty : HomeUiState
-    data class HasData(val quote: Quote) : HomeUiState
+    data class HasData(val quote: Quote, val isLoading: Boolean) : HomeUiState
 }
