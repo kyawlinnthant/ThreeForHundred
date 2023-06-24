@@ -1,6 +1,8 @@
+@Suppress("DSL_SCOPE_VIOLATION")
 plugins {
     id("com.kyawlinnthant.library")
     id("com.kyawlinnthant.hilt")
+    alias(libs.plugins.kotlin.ksp)
 }
 android {
     namespace = "com.kyawlinnthant.database"
@@ -13,5 +15,5 @@ dependencies {
     androidTestApi(project(":testrule"))
     api(libs.bundles.room)
     androidTestApi(libs.test.android.runner)
-    kapt(libs.room.compiler)
+    ksp(libs.room.compiler)
 }

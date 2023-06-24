@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<testsuite name="com.kyawlinnthant.database.QuoteDaoTest" tests="1" failures="0" errors="0" skipped="0" time="0.309" timestamp="2023-06-24T08:57:13" hostname="localhost">
-  <properties>
-    <property name="device" value="2201117SG - 13" />
-    <property name="flavor" value="" />
-    <property name="project" value=":database" />
-  </properties>
-  <testcase name="insert_successfully" classname="com.kyawlinnthant.database.QuoteDaoTest" time="0.031" />
-</testsuite>
