@@ -7,7 +7,7 @@ import retrofit2.http.Query
 interface QuoteApi {
 
     companion object {
-        const val RANDOM = "random"
+        const val RANDOM = "/random"
         private const val DEFAULT_CATEGORY = "all"
         private const val DEFAULT_COUNT = 1
     }

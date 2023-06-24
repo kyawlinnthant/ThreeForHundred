@@ -1,0 +1,2 @@
+06-24 15:27:13.233 12349 12376 I TestRunner: started: insert_successfully(com.kyawlinnthant.database.QuoteDaoTest)
+06-24 15:27:13.327 12349 12376 I TestRunner: finished: insert_successfully(com.kyawlinnthant.database.QuoteDaoTest)

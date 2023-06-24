@@ -7,41 +7,57 @@ import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
 import kotlinx.serialization.json.Json
+import okhttp3.Interceptor
 import okhttp3.MediaType.Companion.toMediaType
 import okhttp3.OkHttpClient
+import retrofit2.Converter
 import retrofit2.Retrofit
-import javax.inject.Qualifier
 import javax.inject.Singleton
 
 @Module
 @InstallIn(SingletonComponent::class)
 object NetworkModule {
 
-    @Qualifier
     @Retention(AnnotationRetention.BINARY)
     annotation class BASEURL
+
+    @Retention(AnnotationRetention.BINARY)
+    annotation class HEADER
 
     @BASEURL
     @Singleton
     @Provides
     fun provideBaseUrl(): String = BuildConfig.BASE_URL
 
+    @HEADER
+    @Singleton
+    @Provides
+    fun provideHeaderInterceptor(header: HeaderInterceptor): Interceptor = header
+
     @Provides
     @Singleton
-    fun provideClient(): OkHttpClient = OkHttpClient.Builder()
+    fun provideClient(
+        @HEADER header: HeaderInterceptor
+    ): OkHttpClient = OkHttpClient.Builder()
         .addInterceptor(OkHttpProfilerInterceptor())
-        .addInterceptor(HeaderInterceptor())
+        .addInterceptor(header)
         .build()
+
+    @Provides
+    @Singleton
+    fun provideConverterFactory(): Converter.Factory =
+        Json.asConverterFactory("application/json".toMediaType())
 
     @Provides
     @Singleton
     fun provideRetrofit(
         client: OkHttpClient,
-        @BASEURL baseUrl : String,
+        @BASEURL baseUrl: String,
+        factory: Converter.Factory
     ): Retrofit = Retrofit.Builder()
         .baseUrl(baseUrl)
         .client(client)
-        .addConverterFactory(Json.asConverterFactory("application/json".toMediaType()))
+        .addConverterFactory(factory)
         .build()
 
     @Provides

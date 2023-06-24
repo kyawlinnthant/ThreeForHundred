@@ -4,7 +4,7 @@
             "outputFile": "com.kyawlinnthant.database-merged_res-16:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/home/klt/.gradle/caches/transforms-3/826e5627384248f62ae42b630081f673/transformed/core-1.8.0/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/home/klt/.gradle/caches/transforms-3/1c8a63eecd2aa316a592de2bf97bc161/transformed/core-1.8.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -19,7 +19,7 @@
             "outputFile": "com.kyawlinnthant.database-mergeReleaseResources-14:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
-                    "source": "/home/klt/.gradle/caches/transforms-3/826e5627384248f62ae42b630081f673/transformed/core-1.8.0/res/values-en-rXC/values-en-rXC.xml",
+                    "source": "/home/klt/.gradle/caches/transforms-3/1c8a63eecd2aa316a592de2bf97bc161/transformed/core-1.8.0/res/values-en-rXC/values-en-rXC.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -25,6 +25,11 @@ android {
             name = "API_KEY",
             value = "\"${properties.getProperty("API_KEY")}\""
         )
+        buildConfigField(
+            type = "String",
+            name = "HOST_KEY",
+            value = "\"${properties.getProperty("HOST_KEY")}\""
+        )
     }
 }
 dependencies {
@@ -33,6 +38,5 @@ dependencies {
     api(libs.kotlinx.serialization)
 
     testApi(project(":testrule"))
-    testImplementation(libs.test.unit.truth)
     testImplementation(libs.mock.web.server)
 }

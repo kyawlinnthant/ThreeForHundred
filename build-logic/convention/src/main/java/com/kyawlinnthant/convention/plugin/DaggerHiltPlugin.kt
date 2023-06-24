@@ -15,6 +15,8 @@ class DaggerHiltPlugin : Plugin<Project> {
             dependencies {
                 "implementation"(libs.findLibrary("hilt.android").get())
                 "kapt"(libs.findLibrary("hilt.compiler").get())
+                "kaptTest"(libs.findLibrary("hilt.android").get())
+                "androidTestImplementation"(libs.findLibrary("hilt.test").get())
                 "kaptAndroidTest"(libs.findLibrary("hilt.compiler").get())
             }
         }

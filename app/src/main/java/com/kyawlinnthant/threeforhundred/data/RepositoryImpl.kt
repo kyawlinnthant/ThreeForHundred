@@ -4,8 +4,8 @@ import com.kyawlinnthant.database.QuoteDao
 import com.kyawlinnthant.database.toEntity
 import com.kyawlinnthant.dispatchers.DispatchersModule
 import com.kyawlinnthant.model.Quote
-import com.kyawlinnthant.network.QuoteApi
 import com.kyawlinnthant.network.DataResult
+import com.kyawlinnthant.network.QuoteApi
 import com.kyawlinnthant.network.safeApiCall
 import com.kyawlinnthant.threeforhundred.domain.Repository
 import kotlinx.coroutines.CoroutineDispatcher
