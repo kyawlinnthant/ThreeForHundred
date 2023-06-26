@@ -1,5 +1,3 @@
-# ThreeForHundred
-
 # Project Structure
 App is structured with 2 screens, Home Screen with Random Quote and List Screen with Quotes.
 Offline support with data from https://rapidapi.com/saicoder/api/famous-quotes4/ 
