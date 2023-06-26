@@ -4,7 +4,7 @@ Offline support with data from https://rapidapi.com/saicoder/api/famous-quotes4/
 Make your API key and add in your `local.properties`,
 `API_KEY=yourapikey`
 `HOST_KEY=famous-quotes4.p.rapidapi.com`
-![Home Screen](/assets/home.jpg)
+![Home Screen](http://assets/home.jpg)
 ![List Screen](/assets/list.jpg)
 ### Tech
 - Gradle build with Kotlin Script and [Gradle Version Catalog](https://developer.android.com/build/migrate-to-catalogs)
