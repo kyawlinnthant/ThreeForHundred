@@ -31,7 +31,7 @@ android {
         }
     }
 }
-
+tasks.getByPath("preBuild").dependsOn("ktlintFormat")
 ktlint {
     version.set(libs.versions.ktlint.version.get())
     android.set(true)
