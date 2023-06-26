@@ -3,6 +3,6 @@
 3    package="com.kyawlinnthant.navigation" >
 4
 5    <uses-sdk android:minSdkVersion="24" />
-5-->/home/klt/AndroidStudioProjects/ThreeForHundred/navigation/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16329305676057281412.xml
+5-->/home/klt/AndroidStudioProjects/ThreeForHundred/navigation/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4800202454518161932.xml
 6
 7</manifest>
