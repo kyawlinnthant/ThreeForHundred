@@ -27,7 +27,9 @@ Make your API key and add in your `local.properties`,
 - Github Action (Android CI)
 - MVVM 
 
+
 ### Multimodule Structure
-![Group 2](https://github.com/kyawlinnthant/ThreeForHundred/assets/24668175/c9c3bcb4-fe11-48f5-aaf2-96992c669fcb)
+
+![Group 1](https://github.com/kyawlinnthant/ThreeForHundred/assets/24668175/13609612-a614-4195-a215-084c2b83d8cc)
 
 
