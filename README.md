@@ -28,3 +28,4 @@ Make your API key and add in your `local.properties`,
 - MVVM 
 
 ### Multimodule Structure
+![Group 1](https://github.com/kyawlinnthant/ThreeForHundred/assets/24668175/5f79803c-7034-45c5-81e1-144f5edc3653)
