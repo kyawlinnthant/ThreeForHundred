@@ -5,7 +5,10 @@ Make your API key and add in your `local.properties`,
 `API_KEY=yourapikey`
 `HOST_KEY=famous-quotes4.p.rapidapi.com`
 
+### UI
 ![Home Screen](https://github.com/kyawlinnthant/ThreeForHundred/assets/24668175/d632dd03-029e-460e-9f89-a07a84c2acb4)
+![List Screen](https://github.com/kyawlinnthant/ThreeForHundred/assets/24668175/62f76577-c28c-46bd-b06c-25b0c5ac1758)
+
 
 ### Tech
 - Gradle build with Kotlin Script and [Gradle Version Catalog](https://developer.android.com/build/migrate-to-catalogs)
