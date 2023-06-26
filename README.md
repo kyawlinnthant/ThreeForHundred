@@ -5,6 +5,7 @@ Make your API key and add in your `local.properties`,
 `API_KEY=yourapikey`
 `HOST_KEY=famous-quotes4.p.rapidapi.com`
 
+![home screen](https://raw.kyawlinnthant.com/ThreeForHundred/master/app/src/main/assets/home.png)
 
 ![Home Screen](http://assets/home.jpg?raw=true)
 ![List Screen](/assets/list.jpg)
