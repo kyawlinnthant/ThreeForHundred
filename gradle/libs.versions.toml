@@ -1,6 +1,6 @@
 [versions]
 kotlin = "1.8.21"
-gradle = "8.0.2"
+gradle = "8.1.0"
 core-ktx = "1.10.1"
 lifecycle-ktx = "2.6.1"
 splashscreen = "1.0.0"
