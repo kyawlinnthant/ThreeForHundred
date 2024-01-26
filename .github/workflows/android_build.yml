@@ -27,7 +27,7 @@ jobs:
           java-version: '17'
 
       - name: setup gradle
-        uses: gradle/gradle-build-action@v2
+        uses: gradle/gradle-build-action@v3
 
       - name: create local.properties from secret variables
         run: echo API_KEY=${{ secrets.API_KEY }} > ./local.properties
@@ -75,7 +75,7 @@ jobs:
           java-version: '17'
 
       - name: setup gradle
-        uses: gradle/gradle-build-action@v2
+        uses: gradle/gradle-build-action@v3
 
       - name: create local.properties from secret variables
         run: echo API_KEY=${{ secrets.API_KEY }} > ./local.properties
