@@ -8,10 +8,12 @@ import com.kyawlinnthant.model.Quote
 @Entity(tableName = TABLE_NAME)
 data class QuoteEntity(
     @PrimaryKey(autoGenerate = false)
-    val id: Int,
-    val text: String,
+    val id: String,
+    val content: String,
     val author: String,
-    val category: String
+    val authorSlug: String,
+    val length: Int,
+    val tag: List<String>
 ) {
     companion object {
         const val TABLE_NAME = "quote"
@@ -19,15 +21,19 @@ data class QuoteEntity(
 
     fun toVo() = Quote(
         id = id,
-        text = text,
+        content = content,
         author = author,
-        category = category
+        authorSlug = authorSlug,
+        length = length,
+        tag = tag
     )
 }
 
 fun Quote.toEntity() = QuoteEntity(
     id = this.id,
-    text = this.text,
+    content = this.content,
     author = this.author,
-    category = this.category
+    authorSlug = this.authorSlug,
+    length = this.length,
+    tag = this.tag
 )

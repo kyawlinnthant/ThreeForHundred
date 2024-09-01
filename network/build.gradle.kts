@@ -16,7 +16,7 @@ android {
         buildConfigField(
             type = "String",
             name = "BASE_URL",
-            value = "\"https://famous-quotes4.p.rapidapi.com\""
+            value = "\"https://api.quotable.io/\""
         )
         val properties = Properties()
         properties.load(project.rootProject.file("local.properties").inputStream())

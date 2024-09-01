@@ -37,15 +37,15 @@ class RepositoryImpl @Inject constructor(
                 }
 
                 is DataResult.Success -> {
-                    dao.insertQuote(networkRequest.data.first().toVo().toEntity())
-                    DataResult.Success(data = networkRequest.data.first().toVo())
+                    dao.insertQuote(networkRequest.data.toVo().toEntity())
+                    DataResult.Success(data = networkRequest.data.toVo())
                 }
             }
         }
     }
 
     override suspend fun getInitialQuote(): Quote {
-        return dao.queryQuotes().flowOn(io).firstOrNull()?.randomOrNull()?.toVo() ?: Quote()
+        return dao.queryQuotes().flowOn(io).firstOrNull()?.randomOrNull()?.toVo() ?: Quote.createEmpty()
     }
 
     private suspend fun getRandomQuoteFromDb(): Quote? {

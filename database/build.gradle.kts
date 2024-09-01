@@ -3,6 +3,7 @@ plugins {
     id("com.kyawlinnthant.library")
     id("com.kyawlinnthant.hilt")
     alias(libs.plugins.kotlin.ksp)
+    alias(libs.plugins.kotlin.serialization)
 }
 android {
     namespace = "com.kyawlinnthant.database"
@@ -16,4 +17,5 @@ dependencies {
     api(libs.bundles.room)
     androidTestApi(libs.test.android.runner)
     ksp(libs.room.compiler)
+    api(libs.kotlinx.serialization)
 }

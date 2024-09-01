@@ -45,8 +45,18 @@ object NetworkModule {
 
     @Provides
     @Singleton
-    fun provideConverterFactory(): Converter.Factory =
-        Json.asConverterFactory("application/json".toMediaType())
+    fun provideJson(): Json {
+        return Json {
+            ignoreUnknownKeys = true
+            encodeDefaults = true
+            coerceInputValues = true
+        }
+    }
+
+    @Provides
+    @Singleton
+    fun provideConverterFactory(json : Json): Converter.Factory =
+        json.asConverterFactory("application/json".toMediaType())
 
     @Provides
     @Singleton

@@ -36,7 +36,7 @@ fun ListItem(
         verticalArrangement = Arrangement.Center,
     ) {
         Text(
-            text = quote.text,
+            text = quote.content,
             modifier = modifier.fillMaxWidth(),
         )
         Row(
@@ -45,7 +45,7 @@ fun ListItem(
             horizontalArrangement = Arrangement.Start,
         ) {
             Text(
-                text = "#${quote.category}",
+                text = "#${quote.tag.firstOrNull()}",
                 style = MaterialTheme.typography.labelSmall,
                 modifier = modifier
                     .clip(RoundedCornerShape(4.dp))
@@ -72,10 +72,12 @@ private fun ListItemPreview() {
         Surface {
             ListItem(
                 quote = Quote(
-                    id = 1,
-                    text = "I know of no more important subject to the peace of Europe and the world than the reasonable reduction of armaments, especially in Europe.",
+                    id = "1",
+                    content = "I know of no more important subject to the peace of Europe and the world than the reasonable reduction of armaments, especially in Europe.",
                     author = "Emil Zatopek",
-                    category = "fitness",
+                    authorSlug = "fitness",
+                    length = 11,
+                    tag = emptyList(),
                 ),
             )
         }

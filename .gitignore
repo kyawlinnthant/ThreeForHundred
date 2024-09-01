@@ -1,20 +1,26 @@
+# IntelliJ/Android Studio specific files
 *.iml
+.idea/
+.idea/*/modules.xml
+.idea/*/workspace.xml
+.idea/*/navEditor.xml
+.idea/*/assetWizardSettings.xml
+.DS_Store
+
+# Gradle specific files
 .gradle
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
+**/build/
 .externalNativeBuild
 .cxx
 local.properties
 
-# Project exclude paths
+# Exclude ktlint reports and other intermediates
+**/build/intermediates/ktLint/
+**/build/reports/ktlint/
+**/build/outputs/
+
+# Project-specific exclusions
 /build-logic/convention/build/
 /network/build/
 **/build
