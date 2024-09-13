@@ -30,7 +30,7 @@ hilt-navigation = "1.0.0"
 # test
 test-unit-junit = "4.13.2"
 test-android-junit = "1.1.5"
-coroutines-test = "1.6.4"
+coroutines-test = "1.9.0"
 mockwebserver = "4.11.0"
 test-runner = "1.5.2"
 # optimizor
